@@ -1,0 +1,18 @@
+#!/usr/bin/env coffee
+
+Stax = require('nez').objective 'Stax'
+
+
+Stax
+
+    class: 'Core Module - Distributed Storage API'
+
+    category: 'Scalability'
+
+    description: """
+
+
+        An **Anything** backed **Everything** store.
+
+
+    """, (feature) ->  

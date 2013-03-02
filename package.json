@@ -1,0 +1,15 @@
+{
+  "name": "stax",
+  "description": "Distributed Storage",
+  "version": "0.0.0",
+  "author": "nomilous <nomilous@gmail.com>",
+  "contributors": [
+    {
+      "name": "nomilous",
+      "email": "nomilous@gmail.com"
+    }
+  ],
+  "repository": "git@github.com:nomilous/stax.git",
+  "dependencies": {},
+  "devDependencies": {}
+}

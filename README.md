@@ -1,4 +1,7 @@
 stax
 ====
 
-Storage Distribution
+### Storage Distribution (API)
+
+An **anything** backed **everything** store.
+
