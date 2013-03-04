@@ -1,8 +1,8 @@
 stax (dMVC)
 ===========
 
-Distributed Model / View / Controller
--------------------------------------
+Distributed Model / View / Controller (framework)
+-------------------------------------------------
 
 ### Imaginable!
 

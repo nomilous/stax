@@ -5,7 +5,7 @@ Stax = require('nez').objective 'Stax'
 
 Stax
 
-    class: 'Core Module - Distributed Storage Controller'
+    class: 'Core Module - (dMVC) Distributed Controller Service'
 
     category: 'Scalability'
 
