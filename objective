@@ -5,14 +5,14 @@ Stax = require('nez').objective 'Stax'
 
 Stax
 
-    class: 'Core Module - Distributed Storage API'
+    class: 'Core Module - Distributed Storage Controller'
 
     category: 'Scalability'
 
     description: """
 
 
-        An **Anything** backed **Everything** store.
+        dMVC - Controller Component
 
 
     """, (feature) ->  
